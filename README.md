@@ -13,7 +13,7 @@ Only tested on my PC (CachyOS, KDE Plasma, Wayland) so YMMV. Provided as is.
 
 `--install` copies it to `~/.local/bin` and adds a launcher entry. Bind a key under System Settings > Keyboard > Shortcuts; pressing it again mid-capture finishes and saves.
 
-Optional: `wl-clipboard`, so the result is copied to the clipboard automatically.
+Optional package: `wl-clipboard`, so the result is copied to the clipboard automatically.
 
 `wl-clipboard` is a small package that provides the `wl-copy` command, and kscrollshot uses that command for copying:
 
